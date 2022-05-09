@@ -8,7 +8,7 @@ def CDTP(usuario,capital,tiempo):
     valorperdtot=int(capital-capital*x)
     return valorperdtot
 
-#usuario=(str(input('Ingrese usuario ')))
+usuario=(str(input('Ingrese usuario ')))
 if xusuario=='AB1012':
     print('BIENVENIDO')
     capital=(float(input('Ingrese el monto ')))
